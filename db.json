@@ -16,7 +16,13 @@
       "id": 3,
       "text": "Office Meeting",
       "day": "Feb 8th at 1:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "client meeting",
+      "day": "wed",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
